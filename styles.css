@@ -163,7 +163,7 @@ body {
 }
 
 .container__botao:hover {
-    color:var(--verde-escuro);
+    color:black;
 } 
 
 .container__botao:active {

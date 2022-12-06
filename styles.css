@@ -164,6 +164,7 @@ body {
 
 .container__botao:hover {
     background-color:var(--verde-escuro);
+    color: black;
 } 
 
 .container__botao:active {
